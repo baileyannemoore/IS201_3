@@ -1,0 +1,89 @@
+<!--Bailey Moore | Last Edited 4/13/2022-->
+
+.pagetitle {
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+}
+
+/* top nav color */
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+    
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+  }
+
+  .topnav {
+    border: 5px outset grey;
+    background-color: rgb(215, 224, 226); 
+    text-align: center;
+  }
+
+  #div2 {
+    style="text-align:center"
+    padding: 3px;
+  }
+
+  .myDiv {
+    border: 5px outset grey;
+    background-color: lightblue; 
+    text-align: center;
+    padding: 3px;
+  }
+
+  .Tableau {
+    border: 5px outset grey;
+    background-color: lightblue; 
+    text-align: center;
+  }
+  
+  /* Div navigation styles */
+  .topnav a {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+  }
+    .topnav {
+        flex-basis: 100%;
+        flex-grow: 1;
+        align-items: center;
+      }
+    
+  
+  /* link color */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    
+  }
+  
+  /* active link color */
+  .topnav a.active {
+    background-color: #1e7b92;
+    color: white;  
+    
+  }
+
+
+   
+  /* Div footer */
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
+  
+  
+
+  
+  
+

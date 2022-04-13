@@ -1,0 +1,52 @@
+<!--Bailey Moore | Last Edited 4/13/2022-->
+
+
+body {
+    font-family: 'IBM Plex Sans Arabic', sans-serif; 
+    color: #1e90ff;
+  }
+
+  #mainNav {
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
+
+  }
+  
+  h1 {
+    text-align: center;
+  }
+
+  
+  .item {
+    border: 2px solid #999;
+    background-color: white;
+  }
+  
+  .preview {
+    height: 16rem;
+    border-bottom: 1px solid #999;
+  }
+  
+  div {
+    background: rgba(199, 196, 196, 0.3)
+  }
+
+
+
+  header.masthead {
+    position: relative;
+    margin-bottom: 3rem;
+    padding-top: calc(8rem + 57px);
+    padding-bottom: 8rem;
+    background-color: #FFDFD3;
+    background-size: cover;
+    background-attachment: scroll;
+  }
+
+    h3 {
+        font-size: 40px;
+        font-style: italic
+      }
+      
+
+
+   
